@@ -7,6 +7,10 @@ Examen Final Práctico --- Noviembre 2025
 
 **Samuel Valencia Loaiza**
 
+## LINK AL VIDEO
+
+https://youtu.be/CycoV5Kuheo
+
 ## ARCHIVO `superficie.txt`
 
 En este archivo se deben guardar las coordenadas con las que se quiera
@@ -71,7 +75,6 @@ Implementada en el método `generateSurface()`
 -   BezierSurface.java\
 -   superficie.txt\
 -   README.TXT\
--   video.mp4
 
 ## CÓMO COMPILAR
 
