@@ -1,15 +1,15 @@
-================================================================================
+=
                    Punto Implementado: SUPERFICIE DE BÉZIER 3D 
                 Universidad EAFIT - Computación Gráfica ST0275
                     Examen Final Práctico - Noviembre 2025
 ESTUDIANTE: [Samuel Valencia Loaiza]
-================================================================================
+
 ARCHIVO superficie.txt:
-================================================================================
+
 En este archivo se deben guardar las coodernadas con las que se quiera formar la superficie, en el repositorio se encuentran las proporcionadas por el profesor
-================================================================================
+
 MÉTODO IMPLEMENTADO (SEGÚN EL EXAMEN):
-================================================================================
+
 
 Este programa implementa EXACTAMENTE el método de Superficies de Bézier
 especificado en la presentación 10aCurvesAndSurfaces.pdf
@@ -52,18 +52,17 @@ especificado en la presentación 10aCurvesAndSurfaces.pdf
    - Proyección perspectiva con distancia focal = 600
    - La cámara gira en coordenadas esféricas alrededor del centro (0,0,-1000)
 
-================================================================================
 
 ARCHIVOS INCLUIDOS EN EL ZIP:
-================================================================================
+
 - BezierSurface.java    : Clase principal con toda la implementación
 - superficie.txt        : Archivo de datos de entrada (según especificación)
 - README.TXT            : Este archivo de documentación
 - video.mp4            : Video demostrativo (máximo 3 minutos)
 
-================================================================================
+
 CÓMO COMPILAR EL PROGRAMA:
-================================================================================
+
 
 Abrir terminal o símbolo del sistema en la carpeta del proyecto y ejecutar:
 
@@ -71,9 +70,9 @@ Abrir terminal o símbolo del sistema en la carpeta del proyecto y ejecutar:
 
 Esto generará el archivo BezierSurface.class
 
-================================================================================
+
 CÓMO EJECUTAR EL PROGRAMA:
-================================================================================
+
 
 En la misma terminal, ejecutar:
 
@@ -81,9 +80,9 @@ En la misma terminal, ejecutar:
 
 El programa abrirá una ventana mostrando la superficie de Bézier en 3D.
 
-================================================================================
+
 CONTROLES:
-================================================================================
+
 Flecha IZQUIERDA  : Rotar cámara hacia la izquierda (theta -)
 Flecha DERECHA    : Rotar cámara hacia la derecha (theta +)
 Flecha ARRIBA     : Rotar cámara hacia arriba (phi -)
